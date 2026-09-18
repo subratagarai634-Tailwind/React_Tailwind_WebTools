@@ -1,0 +1,10 @@
+﻿{
+  "name": "react-light-modal",
+  "version": "1.4.2",
+  "description": "Accessible, zero-dependency lightweight React modal dialog component",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": { "test": "jest" },
+  "peerDependencies": { "react": ">=18.0.0", "react-dom": ">=18.0.0" },
+  "license": "MIT"
+}
