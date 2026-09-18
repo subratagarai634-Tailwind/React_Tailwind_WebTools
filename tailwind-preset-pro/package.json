@@ -1,0 +1,8 @@
+﻿{
+  "name": "tailwind-preset-pro",
+  "version": "1.2.0",
+  "description": "Curated design system preset for Tailwind CSS with accessible tokens",
+  "main": "index.js",
+  "scripts": { "test": "jest" },
+  "license": "MIT"
+}
